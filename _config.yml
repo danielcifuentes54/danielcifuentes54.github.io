@@ -48,9 +48,7 @@ linkedin_username: danielcifuentes54
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name is Daniel Cifuentes, I bring a decade of hands-on experience in technology, from tech support and software quality to Java development and now, as a DevSecOps Manager. Skilled in Java programming, DevOps tools, and cloud-native applications, I've led teams in building secure, scalable solutions on AWS. With a background in system engineering and multiple international certifications (AWS, HashiCorp, Kubernetes, Istio), I excel in creating efficient, cutting-edge tech solutions.
 
 content:
   - title: Projects # Title for the section
