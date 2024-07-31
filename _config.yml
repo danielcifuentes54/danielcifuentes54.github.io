@@ -48,7 +48,7 @@ linkedin_username: danielcifuentes54
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Daniel Cifuentes, I bring a decade of hands-on experience in technology, from tech support and software quality to Java development and now, as a DevSecOps Manager. Skilled in Java programming, DevOps tools, and cloud-native applications, I've led teams in building secure, scalable solutions on AWS. With a background in system engineering and multiple international certifications (AWS, HashiCorp, Kubernetes, Istio), I excel in creating efficient, cutting-edge tech solutions.
+  I am a dedicated DevSecOps professional and Systems Engineer with deep expertise in cloud technologies and microservices architecture. My passion lies in transforming infrastructures and implementing secure, efficient software development life cycles that drive innovation and excellence in software engineering. I specialize in AWS, Terraform, Docker, Kubernetes, Jenkins, and Java, leveraging these tools to create scalable and reliable systems. \n With multiple certifications, including AWS Certified Developer Associate, CKAD, and HashiCorp Vault, I am committed to staying at the forefront of the industry. I excel at optimizing application performance and security, delivering high-quality solutions that solve complex challenges. Fluent in both Spanish and English, I thrive on continuous learning and exploring new technologies to enhance my skills and knowledge. \nThroughout my career, I've been driven by a genuine love for technology and its potential to transform the world. My goal is to bring innovation and excellence to every project I work on, always seeking to solve complex challenges with robust and efficient solutions. I am passionate about advancing the field of DevSecOps, staying updated with the latest industry trends, and contributing to the tech community.
 
 content:
   - title: Projects # Title for the section
@@ -116,7 +116,6 @@ content:
       - [Completion Award for Oracle MOOC: Introduction to PL/SQL Program Units](https://www.credly.com/badges/6e2ccd16-7e6f-4b11-a572-c93563618294/linked_in_profile)
       - [Completion Award for Oracle MOOC: SQL Fundamentals (2018)](https://www.credly.com/badges/e036e48e-05a4-452a-becd-780df1084023/linked_in_profile)
       - [Scrum Master](https://www.scrum-institute.org/badges/73914934702217)
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
