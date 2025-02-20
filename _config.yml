@@ -159,6 +159,8 @@ content:
   - title: International Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - [AWS Certified AI Practitioner Early Adopter](AWS Certified AI Practitioner Early Adopter)
+      - [AWS Certified AI Practitioner](https://www.credly.com/badges/e30eacc5-8ebb-4fee-b32b-42c015514036/public_url)
       - [HashiCorp Certified: Vault Associate (002)](https://www.credly.com/badges/f3183976-bdf3-4221-a190-7319dfa16c30/linked_in_profile)
       - [GitOps Certified](https://drive.google.com/file/d/1KNYK_RJvLYfAy5bNNYL7qGB7285Dd0B2/view)
       - [DevOps Essentials Professional Certificate - DEPC](https://www.credly.com/badges/56a92340-e9d8-4f41-8b47-9e7065d3d276/linked_in_profile)
